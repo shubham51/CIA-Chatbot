@@ -1,0 +1,22 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('IT301.aiml','w')
+
+COURSECODE = "IT301"
+PROFESSOR = "Seba Susan"
+CREDITS = "4"
+SYLLABUS = "Introduction: Alphabets, Strings and Languages; Automata and Grammars, Deterministic finite Automata (DFA)-Formal Definition, Simplified notation: State transition graph, Transition table, Language of DFA, Nondeterministic finite Automata (NFA), NFA with epsilon transition, Language of NFA, Equivalence of NFA and DFA, Minimization of Finite Automata, Regular Expression, Context Free Grammar, Context Free Languages, Push Down Automata, Turing Machines"
+TITLE = "Theory of Computation"
+STUDENTSTRENGTH = "0"
+VENUE = "TW3TF3"
+VENUE1 = "TW2GF2"
+TIMESLOT = "N/A"
+#for AP,AA,AB,BB,BC,CC,CD,DD,DX,FR
+GRADES = ["10","9","8","7","6","5","4","3","2","1","10"]
+grade_index = {'O':10,'A+':9,'A':8,'B+':7,'B':6,'C+':5,'C':4,'D+':3,'D':2,'F':1}
+REFERENCES = " Peter Linz, An Introduction to Formal Language and Automata "
+TYPE = "Theory"
+DURATION = "Full Semester"
+HOMEPAGE = "http://moodle.iiitnr.ac.in/course"
+PREREQUISITES = " Elementary set theory, Relations, Mappings, and some abstract algebra "
+#-----------------------------------------------------------------------------------

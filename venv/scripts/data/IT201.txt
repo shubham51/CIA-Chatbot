@@ -1,0 +1,22 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('IT201.aiml','w')
+
+COURSECODE = "IT201"
+PROFESSOR = "Ritu Aggarwal"
+CREDITS = "4"
+SYLLABUS = "Introduction to Algorithmic, Complexity- Time-Space Trade off. Introduction to abstract data types, design, implementation and applications. Introduction to List data structure. Arrays and Strings. Stacks and Queues. Linked list. Trees. Searching and Sorting. Graphs. File Structure. "
+TITLE = "Data Structures"
+STUDENTSTRENGTH = "0"
+VENUE = "Smart Classroom"
+VENUE1 = "SPS 7"
+TIMESLOT = "N/A"
+#for AP,AA,AB,BB,BC,CC,CD,DD,DX,FR
+GRADES = ["10","9","8","7","6","5","4","3","2","1","6"]
+grade_index = {'O':10,'A+':9,'A':8,'B+':7,'B':6,'C+':5,'C':4,'D+':3,'D':2,'F':1}
+REFERENCES = " Tannenbaum, Data Structures "
+TYPE = "Theory and Practical"
+DURATION = "Full Semester"
+HOMEPAGE = "http://moodle.iiitnr.ac.in/course"
+PREREQUISITES = "Fundamentals of Programming"
+#-----------------------------------------------------------------------------------

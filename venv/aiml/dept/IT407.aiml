@@ -1,0 +1,2986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>TEACHER _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TEACH</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT407</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT407 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT407 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 407</pattern>
+	<template>
+		<random>
+			<li>$Professor Priyanka Meel is teaching IT407. </li>
+			<li>$Professor Priyanka Meel will be teaching IT407. </li>
+			<li>$Instructor of IT407 is Professor Priyanka Meel. </li>
+			<li>$IT407 is running under instruction of Professor Priyanka Meel. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ IT407 _ CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION IT407 CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT407 _ WORTH</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT407 WORTH</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI IT407</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 407</pattern>
+	<template>
+		<random>
+			<li>$CS 407 is worth 4 credits. </li>
+			<li>$CS 407 is of 4 credits. </li>
+			<li>$6 credits are awarded on suC+essful completion of IT407. </li>
+			<li>$4 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 SCOPE</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 SURVEY</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 OUTLINE</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE IT407</pattern>
+	<template><srai>SYLLABUS 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 407</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for IT407 is Introduction, Modern Block Ciphers, Introduction to Algebraic Structures, Message Authentication and Hash Function, Authentication Applications, IP Security, Web Security. </li>
+			<li>$Introduction, Modern Block Ciphers, Introduction to Algebraic Structures, Message Authentication and Hash Function, Authentication Applications, IP Security, Web Security is taught in IT407. </li>
+			<li>$Prof. Priyanka Meel will teach Introduction, Modern Block Ciphers, Introduction to Algebraic Structures, Message Authentication and Hash Function, Authentication Applications, IP Security, Web Security in IT407. </li>
+			<li>$Introduction, Modern Block Ciphers, Introduction to Algebraic Structures, Message Authentication and Hash Function, Authentication Applications, IP Security, Web Security. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ IT407 _ NAME</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE IT407 NAME</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ NAME</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 NAME</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 COURSE NAME</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TITLE</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TITLE</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 COURSE TITLE</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ IT407 _ TITLE</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE IT407 TITLE</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<category>
+	<pattern>NAME IT407</pattern>
+	<template><srai>TITLE 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 407</pattern>
+	<template>
+		<random>
+			<li>$The course name of IT407 is Information Network and Security. </li>
+			<li>$The course title of IT407 is Information Network and Security. </li>
+			<li>$Course code IT407 is Information Network and Security. </li>
+			<li>$IT407 is Information Network and Security. </li>
+			<li>$Information Network and Security. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS IT407</pattern>
+	<template><srai>STUDENTSTRENGTH 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 407</pattern>
+	<template>
+		<random>
+			<li>$There are 95 students in IT407. </li>
+			<li>$There are 95 students in Information Network and Security. </li>
+			<li>$95 students are enrolled in IT407. </li>
+			<li>$95 students are enrolled in Information Network and Security. </li>
+			<li>$95 students have signed up for IT407. </li>
+			<li>$95 students have signed up for Information Network and Security. </li>
+			<li>$The student strength of IT407 is 95. </li>
+			<li>$The student strength of Database ManagementSystem is 95. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ IT407 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME IT407 CLASS RETURN</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TIME SLOT</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT407 _ CLASS</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT407 CLASS</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ RETURN</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 RETURN</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ VENUE</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 VENUE</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT407 _ LECTURE</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT407 LECTURE</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE IT407</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 CLASS RETURN</pattern>
+	<template><srai>VENUE 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 407</pattern>
+	<template>
+		<random>
+			<li>$The venue is LH 301 and timeslot is 2A for IT407. </li>
+			<li>$The venue is Lecture Hall 301 and timeslot is 2A for IT407. </li>
+			<li>$The classes are held in LH 301 and timeslot is 2A for IT407. </li>
+			<li>$The classes are held in Lecture Hall 301 and timeslot is 2A for IT407. </li>
+			<li>$The venue and timeslot are LH 301 and 2A respectively for IT407. </li>
+			<li>$The venue and timeslot are Lecture Hall 301 and 2A respectively for IT407. </li>
+			<li>$The venue is LH 301, the timeslot is 2A for IT407. </li>
+			<li>$The venue is Lecture Hall 301, the timeslot is 2A for IT407. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>O _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>O CLASS IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ O _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE O CLASS IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ O _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE O CLASS IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>O _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>O IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ O _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY O CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ O _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT O CLASS IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ O _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT O IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ O _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET O CLASS IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ O _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE O IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ O _ IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET O IT407</pattern>
+	<template><srai>GRADE_O 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_O 407</pattern>
+	<template>
+		<random>
+			<li>$O grade for exceptional performance was given to 1 students in IT407, 2014. </li>
+			<li>$O grade for exceptional performance was given to 1 students in Information Network and Security, 2014. </li>
+			<li>$1 students got O grade for exceptional performance in IT407, 2014. </li>
+			<li>$1 students got O grade for exceptional performance in Information Network and Security, 2014. </li>
+			<li>$Number of students getting O grade was 1 for exceptional performance in IT407, 2014. </li>
+			<li>$Number of students getting O grade was 1 for exceptional performance in Information Network and Security, 2014. </li>
+			<li>$1. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A+ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE A+ CLASS IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ A _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY A+ CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A+ CLASS IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>A+ CLASS IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A+ CLASS IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>A _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>A+ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A+ CLASS IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A+ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A+ IT407</pattern>
+	<template><srai>GRADE_A+ 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_A+ 407</pattern>
+	<template>
+		<random>
+			<li>$A+ grade was given to 9 students in IT407, 2014. </li>
+			<li>$A+ grade was given to 9 students in Information Network and Security, 2014. </li>
+			<li>$9 students got A+ grade in IT407, 2014. </li>
+			<li>$9 students got A+ grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting A+ grade was 9 in IT407, 2014. </li>
+			<li>$Number of students getting A+ grade was 9 in Information Network and Security, 2014. </li>
+			<li>$9. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ A _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY A CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A CLASS IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A CLASS IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>A CLASS IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE A CLASS IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>A _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>A IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A CLASS IT407</pattern>
+	<template><srai>GRADE_A 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_A 407</pattern>
+	<template>
+		<random>
+			<li>$A grade was given to 14 students in IT407, 2014. </li>
+			<li>$A grade was given to 14 students in Information Network and Security, 2014. </li>
+			<li>$14 students got A grade in IT407, 2014. </li>
+			<li>$14 students got A grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting A grade was 14 in IT407, 2014. </li>
+			<li>$Number of students getting A grade was 14 in Information Network and Security, 2014. </li>
+			<li>$14. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>B _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>B+ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B+ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE B+ CLASS IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B+ CLASS IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>B+ CLASS IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B+ CLASS IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B+ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B+ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B+ CLASS IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ B _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY B+ CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_B+ 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_B+ 407</pattern>
+	<template>
+		<random>
+			<li>$B+ grade was given to 35 students in IT407, 2014. </li>
+			<li>$B+ grade was given to 35 students in Information Network and Security, 2014. </li>
+			<li>$35 students got B+ grade in IT407, 2014. </li>
+			<li>$35 students got B+ grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting B+ grade was 35 in IT407, 2014. </li>
+			<li>$Number of students getting B+ grade was 35 in Information Network and Security, 2014. </li>
+			<li>$35. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ B _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY B CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE B CLASS IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B CLASS IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B CLASS IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>B CLASS IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B CLASS IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>B _ IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<category>
+	<pattern>B IT407</pattern>
+	<template><srai>GRADE_B 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_B 407</pattern>
+	<template>
+		<random>
+			<li>$B grade was given to 21 students in IT407, 2014. </li>
+			<li>$B grade was given to 21 students in Information Network and Security, 2014. </li>
+			<li>$21 students got B grade in IT407, 2014. </li>
+			<li>$21 students got B grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting B grade was 21 in IT407, 2014. </li>
+			<li>$Number of students getting B grade was 21 in Information Network and Security, 2014. </li>
+			<li>$21. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C+ CLASS IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C+ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C+ CLASS IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ C _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY C+ CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C+ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE C+ CLASS IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C+ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>C+ CLASS IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C+ CLASS IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>C _ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>C+ IT407</pattern>
+	<template><srai>GRADE_C+ 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_C+ 407</pattern>
+	<template>
+		<random>
+			<li>$C+ grade was given to 2 students in IT407, 2014. </li>
+			<li>$C+ grade was given to 2 students in Information Network and Security, 2014. </li>
+			<li>$2 students got C+ grade in IT407, 2014. </li>
+			<li>$2 students got C+ grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting C+ grade was 2 in IT407, 2014. </li>
+			<li>$Number of students getting C+ grade was 2 in Information Network and Security, 2014. </li>
+			<li>$2. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>C _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>C IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ C _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY C CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C CLASS IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>C CLASS IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE C CLASS IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C CLASS IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C CLASS IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C IT407</pattern>
+	<template><srai>GRADE_C 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_C 407</pattern>
+	<template>
+		<random>
+			<li>$C grade was given to 2 students in IT407, 2014. </li>
+			<li>$C grade was given to 2 students in Information Network and Security, 2014. </li>
+			<li>$2 students got C grade in IT407, 2014. </li>
+			<li>$2 students got C grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting C grade was 2 in IT407, 2014. </li>
+			<li>$Number of students getting C grade was 2 in Information Network and Security, 2014. </li>
+			<li>$2. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D+ CLASS IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D+ CLASS IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE D+ CLASS IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>D _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>D+ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ D _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY D+ CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D+ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D+ CLASS IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>D+ CLASS IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D+ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D+ IT407</pattern>
+	<template><srai>GRADE_D+ 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_D+ 407</pattern>
+	<template>
+		<random>
+			<li>$D+ grade was given to 8 students in IT407, 2014. </li>
+			<li>$D+ grade was given to 8 students in Information Network and Security, 2014. </li>
+			<li>$8 students got D+ grade in IT407, 2014. </li>
+			<li>$8 students got D+ grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting D+ grade was 8 in IT407, 2014. </li>
+			<li>$Number of students getting D+ grade was 8 in Information Network and Security, 2014. </li>
+			<li>$8. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D CLASS IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE D CLASS IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>D CLASS IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D CLASS IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D CLASS IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ D _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY D CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>D _ IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<category>
+	<pattern>D IT407</pattern>
+	<template><srai>GRADE_D 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_D 407</pattern>
+	<template>
+		<random>
+			<li>$D grade was given to 0 students in IT407, 2014. </li>
+			<li>$D grade was given to 0 students in Information Network and Security, 2014. </li>
+			<li>$0 students got D grade in IT407, 2014. </li>
+			<li>$0 students got D grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting D grade was 0 in IT407, 2014. </li>
+			<li>$Number of students getting D grade was 0 in Information Network and Security, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ F _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT F IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ F _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE F IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ F _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT F CLASS IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ F _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE F CLASS IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ F _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE F CLASS IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>F _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>F CLASS IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>F _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>F IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ F _ CLASS _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET F CLASS IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ F _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET F IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ F _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY F CLASS GIVE IT407</pattern>
+	<template><srai>GRADE_F 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_F 407</pattern>
+	<template>
+		<random>
+			<li>$F grade was given to 3 students in IT407, 2014. </li>
+			<li>$F grade was given to 3 students in Information Network and Security, 2014. </li>
+			<li>$3 students got F grade in IT407, 2014. </li>
+			<li>$3 students got F grade in Information Network and Security, 2014. </li>
+			<li>$Number of students getting F grade was 3 in IT407, 2014. </li>
+			<li>$Number of students getting F grade was 3 in Information Network and Security, 2014. </li>
+			<li>$3. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS IT407</pattern>
+	<template><srai>GRADES 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 407</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for IT407, 2014 are:- [O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+			<li>$The grading statistics for Information Network and Security, 2014 are:- [O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+			<li>$[O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BOOK _ IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ MENTION</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 MENTION</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ BOOK</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 BOOK</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>READ IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL IT407</pattern>
+	<template><srai>REFERENCES 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 407</pattern>
+	<template>
+		<random>
+			<li>$The references are Behrouz A. Forouzan, Cryptography and Network Security for IT407. </li>
+			<li>$The references are Behrouz A. Forouzan, Cryptography and Network Security for Information Network and Security. </li>
+			<li>$References aC+ording to Professor Priyanka Meel are Behrouz A. Forouzan, Cryptography and Network Security for IT407. </li>
+			<li>$Behrouz A. Forouzan, Cryptography and Network Security. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>IT407 _ TYPE</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TYPE</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ IT407</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY IT407</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT407 _ COURSE</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT407 COURSE</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ IT407</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB IT407</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 THEORY LAB</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 LAB THEORY</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT407</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT407</pattern>
+	<template><srai>TYPE 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 407</pattern>
+	<template>
+		<random>
+			<li>$IT407 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT407 _ RUN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT407 RUN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT407 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT407 GET STRETCH</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ DURATION</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 DURATION</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ IT407 _ RUN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS IT407 RUN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT407 _ COURSE</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT407 COURSE</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ LENGTH</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 LENGTH</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ IT407 _ RETURN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER IT407 RETURN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ SPAN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 SPAN</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN IT407</pattern>
+	<template><srai>DURATION 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 407</pattern>
+	<template>
+		<random>
+			<li>$IT407 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$IT407 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>CS407 _ URL</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>CS407 URL</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS407</pattern>
+	<template><srai>HOMEPAGE 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 407</pattern>
+	<template>
+		<random>
+			<li>$Please visit www.dtu.ac.in for more information on IT407</li>
+			<li>$Please visit www.dtu.ac.in for more information on Database ManagementSystem</li>
+			<li>$The course page is www.dtu.ac.in. </li>
+			<li>$Course Website is www.dtu.ac.in. </li>
+			<li>$www.dtu.ac.in. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 PREREQ</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES IT407</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<category>
+	<pattern>IT407 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 407</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 407</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: Data Structures</li>
+			<li>$You should have completed Data Structures to register for IT407</li>
+		</random>
+	</template>
+</category>
+
+</aiml>

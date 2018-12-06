@@ -1,0 +1,2986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>TEACHER _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TEACH</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT301</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT301 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT301 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 301</pattern>
+	<template>
+		<random>
+			<li>$Professor Seba Susan is teaching IT301. </li>
+			<li>$Professor Seba Susan will be teaching IT301. </li>
+			<li>$Instructor of IT301 is Professor Seba Susan. </li>
+			<li>$IT301 is running under instruction of Professor Seba Susan. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ IT301 _ CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION IT301 CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT301 _ WORTH</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT301 WORTH</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI IT301</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 301</pattern>
+	<template>
+		<random>
+			<li>$CS 301 is worth 4 credits. </li>
+			<li>$CS 301 is of 4 credits. </li>
+			<li>$6 credits are awarded on suC+essful completion of IT301. </li>
+			<li>$4 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 SCOPE</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 SURVEY</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 OUTLINE</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE IT301</pattern>
+	<template><srai>SYLLABUS 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 301</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for IT301 is Introduction: Alphabets, Strings and Languages; Automata and Grammars, Deterministic finite Automata (DFA)-Formal Definition, Simplified notation: State transition graph, Transition table, Language of DFA, Nondeterministic finite Automata (NFA), NFA with epsilon transition, Language of NFA, Equivalence of NFA and DFA, Minimization of Finite Automata, Regular Expression, Context Free Grammar, Context Free Languages, Push Down Automata, Turing Machines. </li>
+			<li>$Introduction: Alphabets, Strings and Languages; Automata and Grammars, Deterministic finite Automata (DFA)-Formal Definition, Simplified notation: State transition graph, Transition table, Language of DFA, Nondeterministic finite Automata (NFA), NFA with epsilon transition, Language of NFA, Equivalence of NFA and DFA, Minimization of Finite Automata, Regular Expression, Context Free Grammar, Context Free Languages, Push Down Automata, Turing Machines is taught in IT301. </li>
+			<li>$Prof. Seba Susan will teach Introduction: Alphabets, Strings and Languages; Automata and Grammars, Deterministic finite Automata (DFA)-Formal Definition, Simplified notation: State transition graph, Transition table, Language of DFA, Nondeterministic finite Automata (NFA), NFA with epsilon transition, Language of NFA, Equivalence of NFA and DFA, Minimization of Finite Automata, Regular Expression, Context Free Grammar, Context Free Languages, Push Down Automata, Turing Machines in IT301. </li>
+			<li>$Introduction: Alphabets, Strings and Languages; Automata and Grammars, Deterministic finite Automata (DFA)-Formal Definition, Simplified notation: State transition graph, Transition table, Language of DFA, Nondeterministic finite Automata (NFA), NFA with epsilon transition, Language of NFA, Equivalence of NFA and DFA, Minimization of Finite Automata, Regular Expression, Context Free Grammar, Context Free Languages, Push Down Automata, Turing Machines. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ IT301 _ NAME</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE IT301 NAME</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ NAME</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 NAME</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 COURSE NAME</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TITLE</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TITLE</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 COURSE TITLE</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ IT301 _ TITLE</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE IT301 TITLE</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<category>
+	<pattern>NAME IT301</pattern>
+	<template><srai>TITLE 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 301</pattern>
+	<template>
+		<random>
+			<li>$The course name of IT301 is Theory of Computation. </li>
+			<li>$The course title of IT301 is Theory of Computation. </li>
+			<li>$Course code IT301 is Theory of Computation. </li>
+			<li>$IT301 is Theory of Computation. </li>
+			<li>$Theory of Computation. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS IT301</pattern>
+	<template><srai>STUDENTSTRENGTH 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 301</pattern>
+	<template>
+		<random>
+			<li>$There are 95 students in IT301. </li>
+			<li>$There are 95 students in Theory of Computation. </li>
+			<li>$95 students are enrolled in IT301. </li>
+			<li>$95 students are enrolled in Theory of Computation. </li>
+			<li>$95 students have signed up for IT301. </li>
+			<li>$95 students have signed up for Theory of Computation. </li>
+			<li>$The student strength of IT301 is 95. </li>
+			<li>$The student strength of Database ManagementSystem is 95. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ IT301 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME IT301 CLASS RETURN</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TIME SLOT</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT301 _ CLASS</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT301 CLASS</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ RETURN</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 RETURN</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ VENUE</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 VENUE</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT301 _ LECTURE</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT301 LECTURE</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE IT301</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 CLASS RETURN</pattern>
+	<template><srai>VENUE 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 301</pattern>
+	<template>
+		<random>
+			<li>$The venue is LH 301 and timeslot is 2A for IT301. </li>
+			<li>$The venue is Lecture Hall 301 and timeslot is 2A for IT301. </li>
+			<li>$The classes are held in LH 301 and timeslot is 2A for IT301. </li>
+			<li>$The classes are held in Lecture Hall 301 and timeslot is 2A for IT301. </li>
+			<li>$The venue and timeslot are LH 301 and 2A respectively for IT301. </li>
+			<li>$The venue and timeslot are Lecture Hall 301 and 2A respectively for IT301. </li>
+			<li>$The venue is LH 301, the timeslot is 2A for IT301. </li>
+			<li>$The venue is Lecture Hall 301, the timeslot is 2A for IT301. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>O _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>O CLASS IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ O _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE O CLASS IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ O _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE O CLASS IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>O _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>O IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ O _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY O CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ O _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT O CLASS IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ O _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT O IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ O _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET O CLASS IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ O _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE O IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ O _ IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET O IT301</pattern>
+	<template><srai>GRADE_O 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_O 301</pattern>
+	<template>
+		<random>
+			<li>$O grade for exceptional performance was given to 1 students in IT301, 2014. </li>
+			<li>$O grade for exceptional performance was given to 1 students in Theory of Computation, 2014. </li>
+			<li>$1 students got O grade for exceptional performance in IT301, 2014. </li>
+			<li>$1 students got O grade for exceptional performance in Theory of Computation, 2014. </li>
+			<li>$Number of students getting O grade was 1 for exceptional performance in IT301, 2014. </li>
+			<li>$Number of students getting O grade was 1 for exceptional performance in Theory of Computation, 2014. </li>
+			<li>$1. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A+ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE A+ CLASS IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ A _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY A+ CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A+ CLASS IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>A+ CLASS IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A+ CLASS IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>A _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>A+ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A+ CLASS IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A+ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A+ IT301</pattern>
+	<template><srai>GRADE_A+ 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_A+ 301</pattern>
+	<template>
+		<random>
+			<li>$A+ grade was given to 9 students in IT301, 2014. </li>
+			<li>$A+ grade was given to 9 students in Theory of Computation, 2014. </li>
+			<li>$9 students got A+ grade in IT301, 2014. </li>
+			<li>$9 students got A+ grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting A+ grade was 9 in IT301, 2014. </li>
+			<li>$Number of students getting A+ grade was 9 in Theory of Computation, 2014. </li>
+			<li>$9. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ A _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY A CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A CLASS IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A CLASS IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>A CLASS IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE A CLASS IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>A _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>A IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A CLASS IT301</pattern>
+	<template><srai>GRADE_A 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_A 301</pattern>
+	<template>
+		<random>
+			<li>$A grade was given to 14 students in IT301, 2014. </li>
+			<li>$A grade was given to 14 students in Theory of Computation, 2014. </li>
+			<li>$14 students got A grade in IT301, 2014. </li>
+			<li>$14 students got A grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting A grade was 14 in IT301, 2014. </li>
+			<li>$Number of students getting A grade was 14 in Theory of Computation, 2014. </li>
+			<li>$14. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>B _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>B+ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B+ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE B+ CLASS IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B+ CLASS IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>B+ CLASS IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B+ CLASS IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B+ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B+ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B+ CLASS IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ B _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY B+ CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_B+ 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_B+ 301</pattern>
+	<template>
+		<random>
+			<li>$B+ grade was given to 35 students in IT301, 2014. </li>
+			<li>$B+ grade was given to 35 students in Theory of Computation, 2014. </li>
+			<li>$35 students got B+ grade in IT301, 2014. </li>
+			<li>$35 students got B+ grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting B+ grade was 35 in IT301, 2014. </li>
+			<li>$Number of students getting B+ grade was 35 in Theory of Computation, 2014. </li>
+			<li>$35. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ B _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY B CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE B CLASS IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B CLASS IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B CLASS IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>B CLASS IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B CLASS IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>B _ IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<category>
+	<pattern>B IT301</pattern>
+	<template><srai>GRADE_B 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_B 301</pattern>
+	<template>
+		<random>
+			<li>$B grade was given to 21 students in IT301, 2014. </li>
+			<li>$B grade was given to 21 students in Theory of Computation, 2014. </li>
+			<li>$21 students got B grade in IT301, 2014. </li>
+			<li>$21 students got B grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting B grade was 21 in IT301, 2014. </li>
+			<li>$Number of students getting B grade was 21 in Theory of Computation, 2014. </li>
+			<li>$21. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C+ CLASS IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C+ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C+ CLASS IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ C _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY C+ CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C+ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE C+ CLASS IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C+ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>C+ CLASS IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C+ CLASS IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>C _ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>C+ IT301</pattern>
+	<template><srai>GRADE_C+ 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_C+ 301</pattern>
+	<template>
+		<random>
+			<li>$C+ grade was given to 2 students in IT301, 2014. </li>
+			<li>$C+ grade was given to 2 students in Theory of Computation, 2014. </li>
+			<li>$2 students got C+ grade in IT301, 2014. </li>
+			<li>$2 students got C+ grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting C+ grade was 2 in IT301, 2014. </li>
+			<li>$Number of students getting C+ grade was 2 in Theory of Computation, 2014. </li>
+			<li>$2. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>C _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>C IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ C _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY C CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C CLASS IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>C CLASS IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE C CLASS IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C CLASS IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C CLASS IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C IT301</pattern>
+	<template><srai>GRADE_C 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_C 301</pattern>
+	<template>
+		<random>
+			<li>$C grade was given to 2 students in IT301, 2014. </li>
+			<li>$C grade was given to 2 students in Theory of Computation, 2014. </li>
+			<li>$2 students got C grade in IT301, 2014. </li>
+			<li>$2 students got C grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting C grade was 2 in IT301, 2014. </li>
+			<li>$Number of students getting C grade was 2 in Theory of Computation, 2014. </li>
+			<li>$2. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D+ CLASS IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D+ CLASS IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE D+ CLASS IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>D _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>D+ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ D _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY D+ CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D+ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D+ CLASS IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>D+ CLASS IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D+ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D+ IT301</pattern>
+	<template><srai>GRADE_D+ 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_D+ 301</pattern>
+	<template>
+		<random>
+			<li>$D+ grade was given to 8 students in IT301, 2014. </li>
+			<li>$D+ grade was given to 8 students in Theory of Computation, 2014. </li>
+			<li>$8 students got D+ grade in IT301, 2014. </li>
+			<li>$8 students got D+ grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting D+ grade was 8 in IT301, 2014. </li>
+			<li>$Number of students getting D+ grade was 8 in Theory of Computation, 2014. </li>
+			<li>$8. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D CLASS IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE D CLASS IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>D CLASS IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D CLASS IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D CLASS IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ D _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY D CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>D _ IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<category>
+	<pattern>D IT301</pattern>
+	<template><srai>GRADE_D 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_D 301</pattern>
+	<template>
+		<random>
+			<li>$D grade was given to 0 students in IT301, 2014. </li>
+			<li>$D grade was given to 0 students in Theory of Computation, 2014. </li>
+			<li>$0 students got D grade in IT301, 2014. </li>
+			<li>$0 students got D grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting D grade was 0 in IT301, 2014. </li>
+			<li>$Number of students getting D grade was 0 in Theory of Computation, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ F _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT F IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ F _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE F IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ F _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT F CLASS IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ F _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE F CLASS IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ F _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE F CLASS IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>F _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>F CLASS IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>F _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>F IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ F _ CLASS _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET F CLASS IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ F _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET F IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ F _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY F CLASS GIVE IT301</pattern>
+	<template><srai>GRADE_F 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_F 301</pattern>
+	<template>
+		<random>
+			<li>$F grade was given to 3 students in IT301, 2014. </li>
+			<li>$F grade was given to 3 students in Theory of Computation, 2014. </li>
+			<li>$3 students got F grade in IT301, 2014. </li>
+			<li>$3 students got F grade in Theory of Computation, 2014. </li>
+			<li>$Number of students getting F grade was 3 in IT301, 2014. </li>
+			<li>$Number of students getting F grade was 3 in Theory of Computation, 2014. </li>
+			<li>$3. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS IT301</pattern>
+	<template><srai>GRADES 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 301</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for IT301, 2014 are:- [O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+			<li>$The grading statistics for Theory of Computation, 2014 are:- [O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+			<li>$[O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BOOK _ IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ MENTION</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 MENTION</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ BOOK</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 BOOK</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>READ IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL IT301</pattern>
+	<template><srai>REFERENCES 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 301</pattern>
+	<template>
+		<random>
+			<li>$The references are Peter Linz, An Introduction to Formal Language and Automata concepts for IT301. </li>
+			<li>$The references are Peter Linz, An Introduction to Formal Language and Automata concepts for Theory of Computation. </li>
+			<li>$References aC+ording to Professor Seba Susan are Peter Linz, An Introduction to Formal Language and Automata concepts for IT301. </li>
+			<li>$Peter Linz, An Introduction to Formal Language and Automata concepts. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>IT301 _ TYPE</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TYPE</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ IT301</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY IT301</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT301 _ COURSE</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT301 COURSE</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ IT301</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB IT301</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 THEORY LAB</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 LAB THEORY</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT301</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT301</pattern>
+	<template><srai>TYPE 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 301</pattern>
+	<template>
+		<random>
+			<li>$IT301 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT301 _ RUN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT301 RUN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT301 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT301 GET STRETCH</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ DURATION</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 DURATION</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ IT301 _ RUN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS IT301 RUN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT301 _ COURSE</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT301 COURSE</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ LENGTH</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 LENGTH</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ IT301 _ RETURN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER IT301 RETURN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ SPAN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 SPAN</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN IT301</pattern>
+	<template><srai>DURATION 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 301</pattern>
+	<template>
+		<random>
+			<li>$IT301 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$IT301 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>CS407 _ URL</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>CS407 URL</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS407</pattern>
+	<template><srai>HOMEPAGE 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 301</pattern>
+	<template>
+		<random>
+			<li>$Please visit www.dtu.ac.in for more information on IT301</li>
+			<li>$Please visit www.dtu.ac.in for more information on Database ManagementSystem</li>
+			<li>$The course page is www.dtu.ac.in. </li>
+			<li>$Course Website is www.dtu.ac.in. </li>
+			<li>$www.dtu.ac.in. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 PREREQ</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES IT301</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<category>
+	<pattern>IT301 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 301</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 301</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: Data Structures</li>
+			<li>$You should have completed Data Structures to register for IT301</li>
+		</random>
+	</template>
+</category>
+
+</aiml>

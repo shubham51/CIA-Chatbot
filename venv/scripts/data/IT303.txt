@@ -1,0 +1,22 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('IT303.aiml','w')
+
+COURSECODE = "IT303"
+PROFESSOR = "Anamika Chauhan "
+CREDITS = "4"
+SYLLABUS = "Introduction Concepts: Goals and Applications of Networks, Network structure and architecture, The OSI reference model, services, Network Topology Design - Delay Analysis, Physical Layer Transmission Media, Switching methods, ISDN. Medium Access sub layer: Medium Access sub layer - Channel Allocations, LAN protocols -ALOHA protocols - Overview of IEEE standards - FDDI. Data Link Layer - Elementary Data Link Protocols, Sliding Window protocols, Error Handling. Network Layer: Network Layer - Point - to Pont Networks, routing, Congestion control, Internetworking -TCP / IP, IP packet, IP address, IPv6. Transport Layer. Application Layer"
+TITLE = "Computer Networks"
+STUDENTSTRENGTH = "0"
+VENUE = "TW3TF3"
+VENUE1 = "TW2GF2"
+TIMESLOT = "N/A"
+#for AP,AA,AB,BB,BC,CC,CD,DD,DX,FR
+GRADES = ["10","9","8","7","6","5","4","3","2","1","2"]
+grade_index = {'O':10,'A+':9,'A':8,'B+':7,'B':6,'C+':5,'C':4,'D+':3,'D':2,'F':1}
+REFERENCES = " S. Tananbaum, Computer Networks "
+TYPE = "Theory and Practical"
+DURATION = "Full Semester"
+HOMEPAGE = "http://moodle.iiitnr.ac.in/course"
+PREREQUISITES = Operating systems, Algorithm Design and Analysis "
+#-----------------------------------------------------------------------------------

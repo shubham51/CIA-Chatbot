@@ -1,0 +1,21 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('IT302.aiml','w')
+
+COURSECODE = "IT302"
+PROFESSOR = "Seba Susan"
+CREDITS = "4"
+SYLLABUS = "Introduction: Definition, Phases and Passes, FSM & RE’s and their application to Lexical Analysis, Implementation of Lexical Analyzers, Lexical- Analyzer Generator, Lex – Compiler. Syntax Analysis, BNF Notation. The Syntactic specification of Languages: CFG, Derivation and Parse Trees, Shift Reduce Parsing, top down Parsing, Predictive Parsers. LR Parsers, the canonical collection of LR(0)items, constructing SLR Parsing Tables, Constructing canonical LR Parsing tables and LALR parsing tables , An Automatic Parser Generator, YACC , Syntax Directed Translation, Symbol Tables, Error Detection and Recovery, Code Optimization"
+TITLE = "Compiler Design"
+STUDENTSTRENGTH = "0"
+VENUE = "TW3TF3"
+VENUE1 = "TW2GF2"
+TIMESLOT = "N/A"
+#for AP,AA,AB,BB,BC,CC,CD,DD,DX,FR
+grade_index = {'O':10,'A+':9,'A':8,'B+':7,'B':6,'C+':5,'C':4,'D+':3,'D':2,'F':1}
+REFERENCES = " Aho,Ullman & Sethi, Compiler Design "
+TYPE = "Theory"
+DURATION = "Full Semester"
+HOMEPAGE = "http://moodle.iiitnr.ac.in/course"
+PREREQUISITES = "Theory of Computation"
+#-----------------------------------------------------------------------------------

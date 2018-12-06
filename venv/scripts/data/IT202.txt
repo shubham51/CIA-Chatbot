@@ -1,0 +1,22 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('IT202.aiml','w')
+
+COURSECODE = "IT202"
+PROFESSOR = "Manoj Sethi"
+CREDITS = "4"
+SYLLABUS = "Introduction, Data Modeling Using Entity Relationship Model, Relational Data Model and Language, Database Design, Normalization, File Organization, Indexing and Hashing, Transaction Processing Concepts, Concurrency Control Techniques, Case Studies"
+TITLE = "Database Management System"
+STUDENTSTRENGTH = "0"
+VENUE = "TW3TF3"
+VENUE1 = "TW2GF2"
+TIMESLOT = "N/A"
+#for AP,AA,AB,BB,BC,CC,CD,DD,DX,FR
+GRADES = ["10","9","8","7","6","5","4","3","2","1","1"]
+grade_index = {'O':10,'A+':9,'A':8,'B+':7,'B':6,'C+':5,'C':4,'D+':3,'D':2,'F':1}
+REFERENCES = " Korth, Silbertz, Sudarshan,Data base concepts "
+TYPE = "Theory and Practical"
+DURATION = "Full Semester"
+HOMEPAGE = "http://moodle.iiitnr.ac.in/course"
+PREREQUISITES = "Data Structures"
+#-----------------------------------------------------------------------------------

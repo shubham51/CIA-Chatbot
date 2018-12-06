@@ -1,0 +1,22 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('IT203.aiml','w')
+
+COURSECODE = "IT203"
+PROFESSOR = "Arunima Singh"
+CREDITS = "4"
+SYLLABUS = "Object Oriented Paradigm and C++ at a Glance, Classes and Objects, Dynamic Objects, Operator Overloading and Inheritance, Generic Programming with Templates, Exception Handling, Input Output and File Operations, Java Swings and Applets"
+TITLE = "Object Oriented Programming"
+STUDENTSTRENGTH = "0"
+VENUE = "Smart Classroom"
+VENUE1 = "TW2GF2"
+TIMESLOT = "N/A"
+#for AP,AA,AB,BB,BC,CC,CD,DD,DX,FR
+GRADES = ["10","9","8","7","6","5","4","3","2","1","4"]
+grade_index = {'O':10,'A+':9,'A':8,'B+':7,'B':6,'C+':5,'C':4,'D+':3,'D':2,'F':1}
+REFERENCES = "Balaguruswamy"
+TYPE = "Theory and Practical"
+DURATION = "Full Semester"
+HOMEPAGE = "http://moodle.iiitnr.ac.in/course"
+PREREQUISITES = "NIL"
+#-----------------------------------------------------------------------------------

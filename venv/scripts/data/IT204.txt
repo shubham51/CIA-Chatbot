@@ -1,0 +1,22 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('IT204.aiml','w')
+
+COURSECODE = "IT204"
+PROFESSOR = "Minni Jain "
+CREDITS = "4"
+SYLLABUS = "Introduction, Operating System Structure: System component, system structure, OS services, Concurrent Process, CPU Scheduling, Deadlock, Memory Management: Paging, Segmentation, Virtual Memory, Demand Paging, IO Management and Disk Scheduling, File System"
+TITLE = "Operating Systems"
+STUDENTSTRENGTH = "0"
+VENUE = "TW3TF3"
+VENUE1 = "TW2GF2"
+TIMESLOT = "N/A"
+#for AP,AA,AB,BB,BC,CC,CD,DD,DX,FR
+GRADES = ["10","9","8","7","6","5","4","3","2","1","3"]
+grade_index = {'O':10,'A+':9,'A':8,'B+':7,'B':6,'C+':5,'C':4,'D+':3,'D':2,'F':1}
+REFERENCES = " Silbersachatz , Galvin, Gagne Operating System Concepts "
+TYPE = "Theory and Practical"
+DURATION = "Full Semester"
+HOMEPAGE = "http://moodle.iiitnr.ac.in/course"
+PREREQUISITES = "Data Structures"
+#-----------------------------------------------------------------------------------

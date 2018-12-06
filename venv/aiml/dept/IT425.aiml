@@ -1,0 +1,2987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>TEACHER _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ TEACHER _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TEACH</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT IT425</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT425 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT425 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 425</pattern>
+	<template>
+		<random>
+			<li>$Professor Seba Susan is teaching IT425. </li>
+			<li>$Professor Seba Susan will be teaching IT425. </li>
+			<li>$Instructor of IT425 is Professor Seba Susan. </li>
+			<li>$IT425 is running under instruction of Professor Seba Susan. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ IT425 _ CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION IT425 CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ IT425 _ WORTH</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS IT425 WORTH</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI IT425</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 425</pattern>
+	<template>
+		<random>
+			<li>$CS 425 is worth 4 credits. </li>
+			<li>$CS 425 is of 4 credits. </li>
+			<li>$6 credits are awarded on suC+essful completion of IT425. </li>
+			<li>$4 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ EXPECT _ TEACH _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR EXPECT TEACH IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ SCOPE</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 SCOPE</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ COURSEOFSTUDY _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE COURSEOFSTUDY IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN _ COMPLETE _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>ENLIGHTEN COMPLETE IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>OUTLINE IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ SCREEN _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY SCREEN IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ GO _ TEACH _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER GO TEACH IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSEOFSTUDY IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ PROFESSOR _ TEACH _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>TELL PROFESSOR TEACH IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CONTENT _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CONTENT IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ SURVEY</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 SURVEY</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ SCREEN _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS SCREEN IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>SCOPE IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>LEARN IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ OUTLINE</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 OUTLINE</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ PLAN _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE PLAN IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS _ SCREEN _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>CONTENTS SCREEN IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 COURSEOFSTUDY</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>EXPECT IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ GO _ TEACH _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR GO TEACH IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>GET _ LEARN _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>GET LEARN IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS _ INCLUDE _ IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<category>
+	<pattern>THINGS INCLUDE IT425</pattern>
+	<template><srai>SYLLABUS 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>SYLLABUS 425</pattern>
+	<template>
+		<random>
+			<li>$The syllabus for IT425 is Introduction, Grammars and Parsing, Grammars for Natural Language, Ambiguity Resolution, Advanced Features and Syntax, Features and Unification, Applications of NLP. </li>
+			<li>$Introduction, Grammars and Parsing, Grammars for Natural Language, Ambiguity Resolution, Advanced Features and Syntax, Features and Unification, Applications of NLP is taught in IT425. </li>
+			<li>$Prof. Seba Susan will teach Introduction, Grammars and Parsing, Grammars for Natural Language, Ambiguity Resolution, Advanced Features and Syntax, Features and Unification, Applications of NLP in IT425. </li>
+			<li>$Introduction, Grammars and Parsing, Grammars for Natural Language, Ambiguity Resolution, Advanced Features and Syntax, Features and Unification, Applications of NLP. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ IT425 _ NAME</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE IT425 NAME</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ NAME</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 NAME</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 COURSE NAME</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TITLE</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TITLE</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 COURSE TITLE</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ IT425 _ TITLE</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE IT425 TITLE</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<category>
+	<pattern>NAME IT425</pattern>
+	<template><srai>TITLE 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 425</pattern>
+	<template>
+		<random>
+			<li>$The course name of IT425 is Natural Language Processing. </li>
+			<li>$The course title of IT425 is Natural Language Processing. </li>
+			<li>$Course code IT425 is Natural Language Processing. </li>
+			<li>$IT425 is Natural Language Processing. </li>
+			<li>$Natural Language Processing. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICS _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICS IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS IT425</pattern>
+	<template><srai>STUDENTSTRENGTH 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 425</pattern>
+	<template>
+		<random>
+			<li>$There are 95 students in IT425. </li>
+			<li>$There are 95 students in Natural Language Processing. </li>
+			<li>$95 students are enrolled in IT425. </li>
+			<li>$95 students are enrolled in Natural Language Processing. </li>
+			<li>$95 students have signed up for IT425. </li>
+			<li>$95 students have signed up for Natural Language Processing. </li>
+			<li>$The student strength of IT425 is 95. </li>
+
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ IT425 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME IT425 CLASS RETURN</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TIME _ SLOT</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TIME SLOT</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT _ IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TOPOGRAPHICPOINT IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ SLOT _ IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME SLOT IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT425 _ CLASS</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT425 CLASS</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ RETURN</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 RETURN</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ VENUE</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 VENUE</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ IT425 _ LECTURE</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE IT425 LECTURE</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE _ LECTURE _ IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>VENUE LECTURE IT425</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ CLASS _ RETURN</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 CLASS RETURN</pattern>
+	<template><srai>VENUE 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>VENUE 425</pattern>
+	<template>
+		<random>
+			<li>$The venue is LH 301 and timeslot is 2A for IT425. </li>
+			<li>$The venue is Lecture Hall 301 and timeslot is 2A for IT425. </li>
+			<li>$The classes are held in LH 301 and timeslot is 2A for IT425. </li>
+			<li>$The classes are held in Lecture Hall 301 and timeslot is 2A for IT425. </li>
+			<li>$The venue and timeslot are LH 301 and 2A respectively for IT425. </li>
+			<li>$The venue and timeslot are Lecture Hall 301 and 2A respectively for IT425. </li>
+			<li>$The venue is LH 301, the timeslot is 2A for IT425. </li>
+			<li>$The venue is Lecture Hall 301, the timeslot is 2A for IT425. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>O _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>O CLASS IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ O _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE O CLASS IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ O _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE O CLASS IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>O _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>O IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ O _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY O CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ O _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT O CLASS IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ O _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT O IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ O _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET O CLASS IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ O _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE O IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ O _ IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET O IT425</pattern>
+	<template><srai>GRADE_O 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_O 425</pattern>
+	<template>
+		<random>
+			<li>$O grade for exceptional performance was given to 1 students in IT425, 2014. </li>
+			<li>$O grade for exceptional performance was given to 1 students in Natural Language Processing, 2014. </li>
+			<li>$1 students got O grade for exceptional performance in IT425, 2014. </li>
+			<li>$1 students got O grade for exceptional performance in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting O grade was 1 for exceptional performance in IT425, 2014. </li>
+			<li>$Number of students getting O grade was 1 for exceptional performance in Natural Language Processing, 2014. </li>
+			<li>$1. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A+ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE A+ CLASS IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ A _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY A+ CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A+ CLASS IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>A+ CLASS IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A+ CLASS IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>A _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>A+ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A+ CLASS IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A+ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A+ IT425</pattern>
+	<template><srai>GRADE_A+ 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_A+ 425</pattern>
+	<template>
+		<random>
+			<li>$A+ grade was given to 9 students in IT425, 2014. </li>
+			<li>$A+ grade was given to 9 students in Natural Language Processing, 2014. </li>
+			<li>$9 students got A+ grade in IT425, 2014. </li>
+			<li>$9 students got A+ grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting A+ grade was 9 in IT425, 2014. </li>
+			<li>$Number of students getting A+ grade was 9 in Natural Language Processing, 2014. </li>
+			<li>$9. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ A _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY A CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A CLASS IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A CLASS IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>A CLASS IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ A _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET A IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ A _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE A IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE A CLASS IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>A _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>A IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ A _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT A CLASS IT425</pattern>
+	<template><srai>GRADE_A 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_A 425</pattern>
+	<template>
+		<random>
+			<li>$A grade was given to 14 students in IT425, 2014. </li>
+			<li>$A grade was given to 14 students in Natural Language Processing, 2014. </li>
+			<li>$14 students got A grade in IT425, 2014. </li>
+			<li>$14 students got A grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting A grade was 14 in IT425, 2014. </li>
+			<li>$Number of students getting A grade was 14 in Natural Language Processing, 2014. </li>
+			<li>$14. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>B _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>B+ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B+ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE B+ CLASS IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B+ CLASS IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>B+ CLASS IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B+ CLASS IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B+ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B+ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B+ CLASS IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ B _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY B+ CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_B+ 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_B+ 425</pattern>
+	<template>
+		<random>
+			<li>$B+ grade was given to 35 students in IT425, 2014. </li>
+			<li>$B+ grade was given to 35 students in Natural Language Processing, 2014. </li>
+			<li>$35 students got B+ grade in IT425, 2014. </li>
+			<li>$35 students got B+ grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting B+ grade was 35 in IT425, 2014. </li>
+			<li>$Number of students getting B+ grade was 35 in Natural Language Processing, 2014. </li>
+			<li>$35. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ B _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY B CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE B CLASS IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B CLASS IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE B CLASS IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ B _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET B IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>B CLASS IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ B _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT B CLASS IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>B _ IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<category>
+	<pattern>B IT425</pattern>
+	<template><srai>GRADE_B 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_B 425</pattern>
+	<template>
+		<random>
+			<li>$B grade was given to 21 students in IT425, 2014. </li>
+			<li>$B grade was given to 21 students in Natural Language Processing, 2014. </li>
+			<li>$21 students got B grade in IT425, 2014. </li>
+			<li>$21 students got B grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting B grade was 21 in IT425, 2014. </li>
+			<li>$Number of students getting B grade was 21 in Natural Language Processing, 2014. </li>
+			<li>$21. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C+ CLASS IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C+ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C+ CLASS IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ C _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY C+ CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C+ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE C+ CLASS IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C+ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>C+ CLASS IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C+ CLASS IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>C _ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>C+ IT425</pattern>
+	<template><srai>GRADE_C+ 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_C+ 425</pattern>
+	<template>
+		<random>
+			<li>$C+ grade was given to 2 students in IT425, 2014. </li>
+			<li>$C+ grade was given to 2 students in Natural Language Processing, 2014. </li>
+			<li>$2 students got C+ grade in IT425, 2014. </li>
+			<li>$2 students got C+ grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting C+ grade was 2 in IT425, 2014. </li>
+			<li>$Number of students getting C+ grade was 2 in Natural Language Processing, 2014. </li>
+			<li>$2. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>C _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>C IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ C _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY C CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C CLASS IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>C CLASS IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE C CLASS IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C CLASS IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ C _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE C IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ C _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET C CLASS IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ C _ IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT C IT425</pattern>
+	<template><srai>GRADE_C 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_C 425</pattern>
+	<template>
+		<random>
+			<li>$C grade was given to 2 students in IT425, 2014. </li>
+			<li>$C grade was given to 2 students in Natural Language Processing, 2014. </li>
+			<li>$2 students got C grade in IT425, 2014. </li>
+			<li>$2 students got C grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting C grade was 2 in IT425, 2014. </li>
+			<li>$Number of students getting C grade was 2 in Natural Language Processing, 2014. </li>
+			<li>$2. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D+ CLASS IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D+ CLASS IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE D+ CLASS IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>D _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>D+ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ D _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY D+ CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D+ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D+ CLASS IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>D+ CLASS IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D+ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D+ IT425</pattern>
+	<template><srai>GRADE_D+ 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_D+ 425</pattern>
+	<template>
+		<random>
+			<li>$D+ grade was given to 8 students in IT425, 2014. </li>
+			<li>$D+ grade was given to 8 students in Natural Language Processing, 2014. </li>
+			<li>$8 students got D+ grade in IT425, 2014. </li>
+			<li>$8 students got D+ grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting D+ grade was 8 in IT425, 2014. </li>
+			<li>$Number of students getting D+ grade was 8 in Natural Language Processing, 2014. </li>
+			<li>$8. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D CLASS IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE D CLASS IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ D _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT D IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>D CLASS IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET D CLASS IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ D _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE D CLASS IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ D _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY D CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>D _ IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<category>
+	<pattern>D IT425</pattern>
+	<template><srai>GRADE_D 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_D 425</pattern>
+	<template>
+		<random>
+			<li>$D grade was given to 0 students in IT425, 2014. </li>
+			<li>$D grade was given to 0 students in Natural Language Processing, 2014. </li>
+			<li>$0 students got D grade in IT425, 2014. </li>
+			<li>$0 students got D grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting D grade was 0 in IT425, 2014. </li>
+			<li>$Number of students getting D grade was 0 in Natural Language Processing, 2014. </li>
+			<li>$0. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ F _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT F IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ F _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE F IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ F _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT F CLASS IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ F _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE F CLASS IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ F _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE F CLASS IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>F _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>F CLASS IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>F _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>F IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ F _ CLASS _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET F CLASS IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ GET _ F _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT GET F IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ F _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY F CLASS GIVE IT425</pattern>
+	<template><srai>GRADE_F 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADE_F 425</pattern>
+	<template>
+		<random>
+			<li>$F grade was given to 3 students in IT425, 2014. </li>
+			<li>$F grade was given to 3 students in Natural Language Processing, 2014. </li>
+			<li>$3 students got F grade in IT425, 2014. </li>
+			<li>$3 students got F grade in Natural Language Processing, 2014. </li>
+			<li>$Number of students getting F grade was 3 in IT425, 2014. </li>
+			<li>$Number of students getting F grade was 3 in Natural Language Processing, 2014. </li>
+			<li>$3. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ CLASS _ STATISTICS _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE CLASS STATISTICS IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE _ SCALING _ STATS _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>COLLECTIVE SCALING STATS IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RECEIVE _ AP _ CLASS _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RECEIVE AP CLASS IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATISTICS _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATISTICS IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CLASS GIVE IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ RECEIVE _ AP _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT RECEIVE AP IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CLASS _ GIVE _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CLASS GIVE IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS _ STATS _ IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<category>
+	<pattern>CLASS STATS IT425</pattern>
+	<template><srai>GRADES 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>GRADES 425</pattern>
+	<template>
+		<random>
+			<li>$The grading statistics for IT425, 2014 are:- [O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+			<li>$The grading statistics for Natural Language Processing, 2014 are:- [O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+			<li>$[O:1], [A+:9], [A:14], [B+:35], [B:21], [C+:2], [C:2], [D+:8], [D:0], [F:3]. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BOOK _ IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ MENTION</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 MENTION</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK _ RECOMMEND _ IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>BOOK RECOMMEND IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION _ IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>MENTION IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ BOOK</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 BOOK</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>READ _ IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>READ IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ SURVEY _ MATERIAL</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 SURVEY MATERIAL</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST _ GOOD _ BOOK _ IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>SUGGEST GOOD BOOK IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY _ MATERIAL _ IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<category>
+	<pattern>SURVEY MATERIAL IT425</pattern>
+	<template><srai>REFERENCES 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>REFERENCES 425</pattern>
+	<template>
+		<random>
+			<li>$The references are D. Jurafsky, J. H. Martin, Speech and Language Processing for IT425. </li>
+			<li>$The references are D. Jurafsky, J. H. Martin, Speech and Language Processing for Natural Language Processing. </li>
+			<li>$References aC+ording to Professor Seba Susan are D. Jurafsky, J. H. Martin, Speech and Language Processing for IT425. </li>
+			<li>$D. Jurafsky, J. H. Martin, Speech and Language Processing. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>IT425 _ TYPE</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TYPE</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>LAB _ THEORY _ IT425</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>LAB THEORY IT425</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT425 _ COURSE</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT425 COURSE</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ THEORY _ COURSE _ LAB</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 THEORY COURSE LAB</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY _ LAB _ IT425</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>THEORY LAB IT425</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ THEORY _ LAB</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 THEORY LAB</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ LAB _ THEORY</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 LAB THEORY</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE _ IT425</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TYPE IT425</pattern>
+	<template><srai>TYPE 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TYPE 425</pattern>
+	<template>
+		<random>
+			<li>$IT425 is a Theory course. </li>
+			<li>$It's a Theory course . </li>
+			<li>$Theory. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>TIME _ TIMEPERIOD _ IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME TIMEPERIOD IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT425 _ RUN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT425 RUN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME _ DURATION _ IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>TIME DURATION IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION _ IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>DURATION IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER _ IT425 _ GET _ STRETCH</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>HANKER IT425 GET STRETCH</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ DURATION</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 DURATION</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ DAYS _ IT425 _ RUN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY DAYS IT425 RUN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ TIME _ TIMEPERIOD</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 TIME TIMEPERIOD</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CALENDARMONTH _ RETURN _ COMPLETE _ IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CALENDARMONTH RETURN COMPLETE IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH _ IT425 _ COURSE</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>LENGTH IT425 COURSE</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ LENGTH</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 LENGTH</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH _ SEMESTER _ IT425 _ RETURN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>MUCH SEMESTER IT425 RETURN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ SPAN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 SPAN</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN _ IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<category>
+	<pattern>SPAN IT425</pattern>
+	<template><srai>DURATION 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>DURATION 425</pattern>
+	<template>
+		<random>
+			<li>$IT425 is a Full Semester course. </li>
+			<li>$It's a Full Semester course . </li>
+			<li>$IT425 is Full Semester long . </li>
+			<li>$Full Semester. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN LINK CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY _ INFORMATION _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>DISCOVERY INFORMATION CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>CS407 _ URL</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>CS407 URL</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>HOME _ PAGE _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>HOME PAGE CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ PROFILE _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN PROFILE CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSITE CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE _ LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>HOMEPAGE LINK CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>LINK _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>LINK CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ WEBSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN WEBSITE CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ WEBSITE _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>TELL WEBSITE CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>URL _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>URL CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW _ CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<category>
+	<pattern>KNOW CS407</pattern>
+	<template><srai>HOMEPAGE 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>HOMEPAGE 425</pattern>
+	<template>
+		<random>
+			<li>$Please visit www.dtu.ac.in for more information on IT425</li>
+			<li>$Please visit www.dtu.ac.in for more information on Database ManagementSystem</li>
+			<li>$The course page is www.dtu.ac.in. </li>
+			<li>$Course Website is www.dtu.ac.in. </li>
+			<li>$www.dtu.ac.in. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE _ IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTE IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ PREREQ</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 PREREQ</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ BASH _ IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE BASH IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ _ IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQ IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES _ IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>PREREQUISTES IT425</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 PREREQUISTES</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 _ PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<category>
+	<pattern>IT425 PREREQUISTE</pattern>
+	<template><srai>PREREQUISITES 425</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>PREREQUISITES 425</pattern>
+	<template>
+		<random>
+			<li>$Prerequisites: Theory of Automata</li>
+			<li>$You should have completed Theory of Automata to register for IT425</li>
+
+		</random>
+	</template>
+</category>
+
+</aiml>
